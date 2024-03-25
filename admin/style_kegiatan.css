@@ -1,0 +1,116 @@
+.kegiatan_all {
+	min-height:400px;
+	margin:0 auto;
+	width: 80%;
+    background: rgb(192, 252, 190);
+    
+}
+
+.kegiatan_all h2{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 1000;
+    font-style: bold;
+    padding:20px 0;
+    text-align: center;
+    font-family: sans-serif;
+    background: #41b141;
+}
+
+.label_keg {
+	background-color: #228b22;
+	color: #fff;
+    border-top: #000 solid 1px;
+    border-bottom: #000 solid 1px;
+}
+
+.konten_all{
+	width:100%;
+	min-height:400px;
+    display: inline-block;
+    padding: 0;
+    
+}
+
+.feedkegiatan_all video{
+    width:60%;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feedkegiatan_all h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #41b141;
+}
+
+.feedkegiatan_all h4{
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: center;
+   
+    
+}
+
+.feedkegiatan_all h4:hover{
+    
+    color: #228b22;
+   
+    
+}
+
+.feedkegiatan_all p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+.feedkegiatan_all h5{
+    font-style: bold;
+    font-weight: 300;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+
+
+.kegiatan_admin {
+	min-height:400px;
+	margin:0 auto;
+	width: 80%;
+    background: rgb(192, 252, 190);
+    
+}
+
+.kegiatan_admin h2{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 1000;
+    font-style: bold;
+    padding:20px 0;
+    text-align: center;
+    font-family: sans-serif;
+    background: #41b141;
+}
+
+.konten_admin{
+	width:100%;
+	min-height:400px;
+    display: inline-block;
+    padding: 0;
+    
+}
+
+.konten_admin a{
+    background: rgb(224, 219, 219);
+    border: #000 solid 1px;
+    border-radius: 3px;
+    color: #000;
+}
+

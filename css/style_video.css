@@ -1,0 +1,27 @@
+.video_admin {
+	min-height:400px;
+	margin:0 auto;
+	width: 80%;
+    background: rgb(192, 252, 190);
+    
+}
+
+.video_admin h2{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 1000;
+    font-style: bold;
+    padding:20px 0;
+    text-align: center;
+    font-family: sans-serif;
+    background: #41b141;
+}
+
+.konten_video{
+    width:100%;
+	min-height:100vh;
+    display: flex;
+    padding: 0;
+    flex-direction: column;
+}
+

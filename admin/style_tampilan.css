@@ -1,0 +1,59 @@
+.welcome {
+	padding:5px 0;
+	background: #228b22;
+}
+
+.welcome marquee{
+    color: #fff;
+    font-family: sans-serif;
+
+}
+
+li.dropdown{
+    display: inline-block;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+}
+
+.dropdown-content a{
+    padding:25px 20px;
+	display: inline-block;
+}
+
+.dropdown-content a:hover {
+	background-color: #228b22;
+	color: #fff;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+    background-color: #fff;
+}
+
+
+
+
+
+.moretnm{
+    width: 30%;
+    background-color: #228b22;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+    border-radius: 15%;
+}
+
+.moretnm:hover{
+    color: #fff;
+    background-color: #bc2f2f; 
+}
+
+.moretnm h3{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #fff;
+}

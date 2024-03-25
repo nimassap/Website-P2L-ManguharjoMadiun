@@ -1,0 +1,117 @@
+.kegiatan {
+	min-height:400px;
+	margin:0 auto;
+	width: 100%;
+    background: #fff;
+    margin-bottom: 105px;
+}
+
+
+
+.kegiatan h2{
+    font-size: 20px;
+    color: #228b22;
+    font-weight: 750;
+    font-style: bold;
+    padding:20px 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+
+.konten{
+	width:100%;
+	min-height:400px;
+    display: inline-block;
+    padding: 0;
+}
+
+
+
+.feedkegiatan {
+	padding: 10px;
+	border-top: rgb(15, 15, 15) solid 2px;
+    border-bottom: rgb(15, 15, 15) solid 2px;
+	border-radius: 10px;
+	background: rgb(180, 232, 179);
+	text-align: left;
+	width:100%;
+	min-height:170px;
+    margin-left: 0px;
+}
+
+.feedkegiatan img{
+    width:130px;
+    height:130px;
+    float:left;
+    margin:10px
+}
+
+.feedkegiatan p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.feedkegiatan h5{
+    font-style: bold;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+
+.feedkegiatan a{
+    border: rgb(15, 15, 15) solid 2px;
+    background: #fff;
+    color: #000;
+}
+
+.container1{
+    height: 150px;
+    background: #fff;
+}
+
+.tanaman h2{
+    font-size: 20px;
+    color: #228b22;
+    font-weight: 750;
+    font-style: bold;
+    padding:20px 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+.feedkegiatan1 {
+	padding: 10px;
+	border-top: rgb(15, 15, 15) solid 2px;
+    border-bottom: rgb(15, 15, 15) solid 2px;
+	border-radius: 10px;
+	background: rgb(192, 252, 190);
+	text-align: left;
+	width:100%;
+	min-height:170px;
+    margin-left: 0px;
+}
+
+.feedkegiatan1 img{
+    width:130px;
+    height:130px;
+    float:left;
+    margin:10px
+}
+
+.feedkegiatan1 p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.feedkegiatan1 h5{
+    font-style: bold;
+    font-weight: 300;
+    margin-bottom: 20px;
+}

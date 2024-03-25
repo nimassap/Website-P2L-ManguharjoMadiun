@@ -1,0 +1,121 @@
+.tanaman_all {
+	min-height:400px;
+	margin:0 auto;
+	width: 80%;
+  background: rgb(192, 252, 190);
+    
+}
+
+.tanaman_all h2{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 1000;
+    font-style: bold;
+    padding:20px 0;
+    text-align: center;
+    font-family: sans-serif;
+    background: #41b141;
+}
+
+.label_keg {
+	background-color: #228b22;
+	color: #fff;
+  border-top: #000 solid 1px;
+  border-bottom: #000 solid 1px;
+}
+
+.konten_tnm{
+	width:100%;
+	min-height:400px;
+  display: inline-block;
+  padding: 0;
+    
+}
+
+.feedtanaman_all img{
+    width:80%;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+}
+
+.feedtanaman_all h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #41b141;
+    
+}
+
+.feedtanaman_all h4{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 200px;
+}
+
+.feedtanaman_all p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    float: center;
+}
+
+.feedtanaman_all h5{
+    font-style: bold;
+    font-weight: 300;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.konten_tnm a{
+  background: rgb(224, 219, 219);
+  border: #000 solid 1px;
+  border-radius: 3px;
+  color: #000;
+}
+
+
+
+.tanaman_admin {
+	min-height:400px;
+	margin:0 auto;
+	width: 80%;
+    background: rgb(192, 252, 190);
+    
+}
+
+.tanaman_admin h2{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 1000;
+    font-style: bold;
+    padding:20px 0;
+    text-align: center;
+    font-family: sans-serif;
+    background: #41b141;
+}
+
+.konten_tanaman{
+	width:100%;
+	min-height:400px;
+    display: inline-block;
+    padding: 0;
+    
+}
+
+.konten_tanaman a{
+    background: rgb(224, 219, 219);
+    border: #000 solid 1px;
+    border-radius: 3px;
+    color: #000;
+}
